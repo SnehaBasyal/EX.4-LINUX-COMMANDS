@@ -256,6 +256,5 @@ Output:
 	Downloads file.zip from the specified URL.
 ```
 
-
 ## RESULT:
 Thus basis of UNIX commands are studied and executed.
