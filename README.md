@@ -1,7 +1,7 @@
 # OS EX.4-LINUX-COMMANDS
 
 ## AIM:
-To study and execute the basis of UNIX commands.
+To study and execute basic UNIX commands.
 
 ## Software requirements:
 Linux operating system.
@@ -257,4 +257,4 @@ Output:
 ```
 
 ## RESULT:
-Thus basis of UNIX commands are studied and executed.
+Thus basic UNIX commands are studied and executed.
